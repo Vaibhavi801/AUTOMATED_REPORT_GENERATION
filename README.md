@@ -16,7 +16,7 @@ This project is developed as part of the **CODTECH Internship Task** on Automate
 
 ---
 
-## 📄 Input Data
+## Input Data
 The input data is stored in a CSV file named `data.csv`.
 
 ### Sample Columns:
